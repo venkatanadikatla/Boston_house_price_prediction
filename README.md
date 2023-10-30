@@ -8,5 +8,5 @@
 Create a new environment
 
 ```
-conda create venv python ==3.12.0
+conda create -p venv python ==3.12.0
 ```
